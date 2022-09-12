@@ -9,6 +9,7 @@ The hotel customer management can understand the different parameters that signi
 We will be using the data available to analyze the factors affecting the hotel bookings. These factors can be used for reporting the trends and predict the future bookings.
 
 Feature Description:
+
 ●	hotel (Categorical): Type of Hotel (City Hotel / Resort Hotel)
 ●	is_canceled (Numerical): Whether the booking is canceled (1) or not canceled (2)
 ●	lead_time (Numerical): The time taken between when a customer makes a reservation and their actual arrival. 
